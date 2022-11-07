@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=27priyanshu)](https://github.com/27priyanshu)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27priyanshu&layout=compact)](https://github.com/27priyanshu)
+
+
+
